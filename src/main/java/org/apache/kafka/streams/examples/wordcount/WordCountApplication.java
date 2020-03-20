@@ -1,3 +1,5 @@
+package org.apache.kafka.streams.examples.wordcount;
+
 import org.apache.kafka.common.serialization.Serdes;
 import org.apache.kafka.common.utils.Bytes;
 import org.apache.kafka.streams.KafkaStreams;
